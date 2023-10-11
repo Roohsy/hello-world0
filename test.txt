@@ -1,1 +1,1 @@
-That is a text document.
+This is a text document.
